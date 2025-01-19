@@ -1,0 +1,362 @@
+{
+  "Version": 1,
+  "Hash": "qRLYpRtDQ6vPZdM4T1ZPoSFhtt/TVZGBdxgF9anmoek=",
+  "Source": "Projeto_Web-Lh_Pets_Alunos",
+  "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets_Alunos\\wwwroot",
+      "Source": "Projeto_Web-Lh_Pets_Alunos",
+      "ContentRoot": "C:\\Users\\Arthur\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Arthur\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\obj\\Debug\\net9.0\\compressed\\z6sw7ylqub-yxxldq5l7r.gz",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Arthur\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index#[.{fingerprint=yxxldq5l7r}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Arthur\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "9o8a091yua",
+      "Integrity": "aZ5Asm3nq1Ya/T4jX31w0p7mun0gET1LU38MoHgH0TA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Arthur\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Arthur\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Arthur\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yxxldq5l7r",
+      "Integrity": "FgQ7RT29l+BlwZij0gtVRsGQHN//ZGwFNY+EYETDUOM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Arthur\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\obj\\Debug\\net9.0\\compressed\\z6sw7ylqub-yxxldq5l7r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003344481605"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZ5Asm3nq1Ya/T4jX31w0p7mun0gET1LU38MoHgH0TA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 16:35:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FgQ7RT29l+BlwZij0gtVRsGQHN//ZGwFNY+EYETDUOM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FgQ7RT29l+BlwZij0gtVRsGQHN//ZGwFNY+EYETDUOM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\Arthur\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FgQ7RT29l+BlwZij0gtVRsGQHN//ZGwFNY+EYETDUOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 16:35:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FgQ7RT29l+BlwZij0gtVRsGQHN//ZGwFNY+EYETDUOM="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\Arthur\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\obj\\Debug\\net9.0\\compressed\\z6sw7ylqub-yxxldq5l7r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZ5Asm3nq1Ya/T4jX31w0p7mun0gET1LU38MoHgH0TA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 16:35:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZ5Asm3nq1Ya/T4jX31w0p7mun0gET1LU38MoHgH0TA="
+        }
+      ]
+    },
+    {
+      "Route": "index.yxxldq5l7r.html",
+      "AssetFile": "C:\\Users\\Arthur\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\obj\\Debug\\net9.0\\compressed\\z6sw7ylqub-yxxldq5l7r.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003344481605"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZ5Asm3nq1Ya/T4jX31w0p7mun0gET1LU38MoHgH0TA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 16:35:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"FgQ7RT29l+BlwZij0gtVRsGQHN//ZGwFNY+EYETDUOM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yxxldq5l7r"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FgQ7RT29l+BlwZij0gtVRsGQHN//ZGwFNY+EYETDUOM="
+        }
+      ]
+    },
+    {
+      "Route": "index.yxxldq5l7r.html",
+      "AssetFile": "C:\\Users\\Arthur\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "451"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FgQ7RT29l+BlwZij0gtVRsGQHN//ZGwFNY+EYETDUOM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 16:35:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yxxldq5l7r"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FgQ7RT29l+BlwZij0gtVRsGQHN//ZGwFNY+EYETDUOM="
+        }
+      ]
+    },
+    {
+      "Route": "index.yxxldq5l7r.html.gz",
+      "AssetFile": "C:\\Users\\Arthur\\Desktop\\Projeto_Web-Lh_Pets_Alunos\\obj\\Debug\\net9.0\\compressed\\z6sw7ylqub-yxxldq5l7r.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZ5Asm3nq1Ya/T4jX31w0p7mun0gET1LU38MoHgH0TA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 16:35:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yxxldq5l7r"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZ5Asm3nq1Ya/T4jX31w0p7mun0gET1LU38MoHgH0TA="
+        }
+      ]
+    }
+  ]
+}
